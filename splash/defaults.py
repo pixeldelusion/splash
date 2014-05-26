@@ -38,3 +38,6 @@ CACHE_PATH = '.splash-cache'
 
 # JS rendering options
 JS_CROSS_DOMAIN_ENABLED = False
+
+# Lanugage settings 
+ACCEPT_LANGUAGE = 'en-US,en;'
